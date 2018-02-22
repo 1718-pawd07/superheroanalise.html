@@ -1,1 +1,1 @@
-[# Classwork-06](superheroanalise.html)
+[# c06-superhero-table-analise](superheroanalise.html)
